@@ -1,0 +1,1 @@
+/bin/sh ~/scripts/start_tailscale.sh && /bin/sh ~/scripts/up_tailscale.sh

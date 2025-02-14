@@ -1,0 +1,2 @@
+
+@reboot /bin/sh ~/scripts/on_reboot.sh

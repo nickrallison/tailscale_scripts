@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd /home/csusers/nicholas.allison/tailscale
-./tailscale --socket /home/csusers/nicholas.allison/.tailscale/tailscaled.sock up
+cd /home/csusers/nicholas.allison/.local/bin
+./tailscale --socket /home/csusers/nicholas.allison/.tailscale/tailscaled.sock up --advertise-exit-node
