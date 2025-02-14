@@ -1,2 +1,2 @@
 
-@reboot /bin/sh ~/scripts/on_reboot.sh
+@reboot nohup /bin/sh ~/scripts/on_reboot.sh
